@@ -5,4 +5,5 @@ struct DebugPrintable(i32);
 
 fn main() {
     println!("Hello, world!");
+    println!("Remember, Github Actions logs are deleted after 90 days")
 }
